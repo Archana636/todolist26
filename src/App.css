@@ -1,0 +1,129 @@
+body{
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 30px;
+  font-style: bold;
+}
+
+
+.body2{
+  text-align: center;
+  /* padding: 10px; */
+  /* margin-right: 80px; */
+ /* position: relative;
+ width: 200px;
+height: 0.5px;
+left: 416px;
+top: 45px; 
+
+
+
+border: 1px solid #BDBDBD;  */
+text-decoration: underline;
+}
+
+.btn1{
+  text-align: center;
+  row-gap: 10px;
+  display:flex;
+ justify-content: center;
+ margin:auto;
+width: 400px;
+
+/* Gray 4 */
+
+/* border: 1px solid #BDBDBD;  */
+ 
+text-decoration: underline;
+}
+
+.btn2{
+  margin-right: 20px;
+ cursor: pointer;
+  background-color: transparent;
+  /* height: 30px; */
+  width: 60px;
+  color: black;
+  font-size: 1.5em;
+  padding: 0;
+  border: none;
+  background: none;
+  
+  text-decoration: underline;
+  /* text-decoration-color: #2F80ED; */
+  
+}
+.btn3{
+  margin-right:20px;
+  cursor: pointer;
+  border:  #3498db;
+  background-color: transparent;
+  /* height: 30px; */
+  width: 80px;
+  color: black;
+  font-size: 1.5em;
+  /* box-shadow: 0 2px 3px rgba(0, 0, 0, 0.6); */
+  text-decoration: underline;
+  /* text-decoration-color: #2F80ED; */
+  
+}
+.btn4{
+  margin-right: 20px;
+  cursor: pointer;
+  border:  #3498db;
+  background-color: transparent;
+  /* height: 30px; */
+  width: 125px;
+  color: black;
+  font-size: 1.5em;
+  /* box-shadow: 0 2px 3px rgba(0, 0, 0, 0.6); */
+  text-decoration: underline;
+  /* text-decoration-color: #2F80ED; */
+  
+}
+.btn5{
+  margin-right: 10px;
+  background-color: #1e69b3;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.add1{
+  margin-right: 10px;
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  color: black;
+  border:1px solid #555;
+  height: 50px;
+  width: 300px;
+  border-radius: 15px;
+}
+.input > add1{
+  margin-right: 10px;
+  font-family: 'Montserrat';
+font-style: normal;
+}
+.blue{
+  text-decoration-color: #2F80ED;
+  color:#2F80ED;
+}
+.blue1{
+  text-decoration-color: #2F80ED;
+  color:#2F80ED;
+}
+.blue2{
+  text-decoration-color: #2F80ED;
+  color:#2F80ED;
+}
